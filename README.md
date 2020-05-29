@@ -79,7 +79,7 @@ Je suis actuellement intéressé par :
 ---
 
 ## Suivre le monde Frontend
-<!-->
+<!--
 - [Focus Frontend](https://frontendfoc.us/) Un récapitulatif hebdomadaire des meilleures nouvelles, articles et tutoriels du front-end. HTML, CSS, WebGL, Canvas, technologie de navigateur, etc.
 - [JavaScript Weekly](https://javascriptweekly.com/) Un récapitulatif gratuit, une fois par semaine, des nouvelles et des articles JavaScript.
 - [StatusCode Weekly](https://webopsweekly.com/) Un bulletin hebdomadaire couvrant le développement de logiciels, les opérations Web, l'infrastructure, les plates-formes et les performances.
