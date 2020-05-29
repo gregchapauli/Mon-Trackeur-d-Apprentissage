@@ -45,6 +45,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
+| ![Completed][completed] | Mai 2020       | Responsive Web Design Certification | [FreeCodeCamp](https://www.freecodecamp.org/certification/gregchapauli/responsive-web-design)   |
 | ![Completed][completed] | Avril 2020     | Créer des animations CSS modernes avec SASS | [Openclassrooms](https://openclassrooms.com/fr/courses/5919246-creez-des-animations-css-modernes)   |
 | ![Completed][completed] | Mars 2020      | Découvrez le fonctionnement des algorythmes | [Openclassrooms](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes)   |
 | ![Completed][completed] | Mars 2020      | Utiliser Git et Github | [Openclassrooms](https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement)   |
@@ -58,21 +59,12 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 ## Mes intérêts
 
-Je suis actuellement intéressée par :
+Je suis actuellement intéressé par :
 
-<!-- - Tout ce qui concerne la [Data Science](https://jedha.co/) et l'écosystème des startups-->
+- L'apprentissage du Javascript (formation UDEMY en cours)
+- La construction d'un PORTFOLIO
+- Les Frameworks, les API, VSCode, Bootstrap, PHP, MySQL...
 
-![](logos/startup.png)
-![](logos/growth-hacking.png)
-
----
-
-## Ressources Data Science
-<!--
-- :fr: [Prédire le cours d'une action grâce à la data science](https://jedha.co/blog/2019/09/11/predire-le-cours-dune-action-grace-a-la-data-science/) de [Nirsrine BARKALLAH]
-- :us: [Data Science Life Cycle 101 for Dummies like Me](https://towardsdatascience.com/data-science-life-cycle-101-for-dummies-like-me-e66b47ad8d8f) de [Sangeet Moy Das]
-- :fr: [Convaincre grâce aux données](https://jedha.co/blog/2018/06/15/convaincre-grace-aux-donnees/) de [KENT AQUEREBURU - DATA SCIENTIST @ SOCIÉTÉ GÉNÉRALE]
--->
 ---
 
 ## Ressources Dév
@@ -93,6 +85,7 @@ Je suis actuellement intéressée par :
 - [StatusCode Weekly](https://webopsweekly.com/) Un bulletin hebdomadaire couvrant le développement de logiciels, les opérations Web, l'infrastructure, les plates-formes et les performances.
 - ## [React Status](https://react.statuscode.com/) Un récapitulatif hebdomadaire des derniers liens et didacticiels React et React Native.
 -->
+
 ### Liste de contrôle de développement Web
 
 Voici une liste d'objectifs de base à atteindre :
