@@ -45,6 +45,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
+| ![Completed][completed] | Juin 2020      | Apprenez à programmer avec javascript | [Openclassrooms](https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript)   |
 | ![Completed][completed] | Mai 2020       | Responsive Web Design Certification | [FreeCodeCamp](https://www.freecodecamp.org/certification/gregchapauli/responsive-web-design)   |
 | ![Completed][completed] | Avril 2020     | Créer des animations CSS modernes avec SASS | [Openclassrooms](https://openclassrooms.com/fr/courses/5919246-creez-des-animations-css-modernes)   |
 | ![Completed][completed] | Mars 2020      | Découvrez le fonctionnement des algorythmes | [Openclassrooms](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes)   |
