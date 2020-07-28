@@ -45,6 +45,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
+| ![Completed][completed] | Juillet 2020   | jQuery| [Udemy](https://https://www.udemy.com/course/formation-developpeur-web/)   |
 | ![Completed][completed] | Juillet 2020   | ES 6| [FreeCodeCamp](https://www.freecodecamp.org/certification/gregchapauli)   |
 | ![Completed][completed] | Juin 2020      | Basics Javascript| [FreeCodeCamp](https://www.freecodecamp.org/certification/gregchapauli)   |
 | ![Completed][completed] | Juin 2020      | Apprenez à programmer avec javascript | [Openclassrooms](https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript)   |
@@ -98,21 +99,18 @@ Voici une liste d'objectifs de base à atteindre :
 - [ ] Écrire des tests pour votre code
 - [ ] Aidez un autre développeur Web à résoudre un problème
 - [ ] Assistez à un événement sur le développement Web
-- [ ] Suivre les développeurs que l'on admire sur les médias sociaux
 - [ ] Lire un livre sur le codage
 - [x] Ouvrir la console de votre navigateur
 - [ ] Obtenir des données d'une API
 - [ ] Masquer les clés API du public
 - [x] Posez une question sur Stack Overflow
 - [x] Code Push vers GitHub
-- [ ] Parlez de quelque chose lié au développement web lors d'un événement
 - [ ] Remplir un entretien technique
 - [ ] Participer à un hackathon
 - [ ] Déployer un projet
 - [ ] Contribuer à l'open source
 - [ ] Soyez payé pour coder
 - [x] Lorsque les gens vous demandent ce que vous faites, répondez en disant que vous apprenez le code :)
-- [ ] Travailler en Pair Programming
-- [ ] Apprendre la Data Science
-- [ ] Apprendre le langage Python
+- [ ] Travailler sur un projet en équipe
+- [ ] Apprendre le framework React
 - [ ] Apprendre SQL
