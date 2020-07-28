@@ -45,7 +45,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
-| ![Completed][completed] | Juillet 2020   | jQuery| [Udemy](https://https://www.udemy.com/course/formation-developpeur-web/)   |
+| ![Completed][completed] | Juillet 2020   | jQuery| [Udemy](https://www.udemy.com/course/formation-developpeur-web)   |
 | ![Completed][completed] | Juillet 2020   | ES 6| [FreeCodeCamp](https://www.freecodecamp.org/certification/gregchapauli)   |
 | ![Completed][completed] | Juin 2020      | Basics Javascript| [FreeCodeCamp](https://www.freecodecamp.org/certification/gregchapauli)   |
 | ![Completed][completed] | Juin 2020      | Apprenez à programmer avec javascript | [Openclassrooms](https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript)   |
