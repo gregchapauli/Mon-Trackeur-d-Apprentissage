@@ -45,7 +45,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
-| ![in progress][in progress]| Aout 2020   | Basic Algorythm Scripting | [FreeCodeCamp](https://www.freecodecamp.org/learn)   |
+| ![Completed][completed] | Septembre 2020   | Basic Algorythm Scripting | [FreeCodeCamp](https://www.freecodecamp.org/learn)   |
 | ![Completed][completed] | Aout 2020   | Basic Data Structures | [FreeCodeCamp](https://www.freecodecamp.org/learn)   |
 | ![Completed][completed] | Aout 2020   | Regex / Debugging | [FreeCodeCamp](https://www.freecodecamp.org/certification/gregchapauli)   |
 | ![Completed][completed] | Juillet 2020   | jQuery| [Udemy](https://www.udemy.com/course/formation-developpeur-web)   |
