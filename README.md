@@ -45,6 +45,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
+| ![Completed][completed] | Octobre 2020   | Object Oriented Programming | [FreeCodeCamp](https://www.freecodecamp.org/learn)   |
 | ![Completed][completed] | Septembre 2020   | Basic Algorythm Scripting | [FreeCodeCamp](https://www.freecodecamp.org/learn)   |
 | ![Completed][completed] | Aout 2020   | Basic Data Structures | [FreeCodeCamp](https://www.freecodecamp.org/learn)   |
 | ![Completed][completed] | Aout 2020   | Regex / Debugging | [FreeCodeCamp](https://www.freecodecamp.org/certification/gregchapauli)   |
