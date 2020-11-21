@@ -45,7 +45,8 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
-| ![in progress][in progress] | Octobre 2020   | Functional Programming | [FreeCodeCamp](https://www.freecodecamp.org/learn)   |
+| ![in progress][in progress] | Novembre 2020   | Intermediate Algorithm Structure  | [FreeCodeCamp](https://www.freecodecamp.org/learn)   |
+| ![Completed][completed]] | Novembre 2020   | Functional Programming | [FreeCodeCamp](https://www.freecodecamp.org/learn)   |
 | ![Completed][completed] | Octobre 2020   | Object Oriented Programming | [FreeCodeCamp](https://www.freecodecamp.org/learn)   |
 | ![Completed][completed] | Septembre 2020   | Basic Algorythm Scripting | [FreeCodeCamp](https://www.freecodecamp.org/learn)   |
 | ![Completed][completed] | Aout 2020   | Basic Data Structures | [FreeCodeCamp](https://www.freecodecamp.org/learn)   |
@@ -72,11 +73,13 @@ Je suis actuellement intéressé par :
 
 - L'apprentissage du Javascript (formation UDEMY en cours)
 - La construction d'un PORTFOLIO
-- Les Frameworks, les API, VSCode, Bootstrap, PHP, MySQL...
+- Les Frameworks (React), les API, VSCode, Bootstrap, PHP, MySQL...
+- Le developpement mobile (Flutter)
+- Le Serverless
 
 ---
 
-## Ressources Dév
+## Ressources Dev
 
 - :fr: [les meilleurs développeurs web Français sur YouTube...](https://www.ledevweb.fr/) de [Jérémy Mouzin](https://www.javascriptdezero.com/#10)
 - :us: [CS50: Introduction to computer science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) from Harvard University
