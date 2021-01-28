@@ -77,9 +77,11 @@ Je suis actuellement intéressé par :
 
 - L'apprentissage du Javascript (formation UDEMY en cours)
 - La construction d'un PORTFOLIO
+- La création d'un blog
 - Les Frameworks (React), les API, VSCode, Bootstrap, PHP, MySQL...
 - Le developpement mobile (Flutter)
 - Le Serverless
+- Les tests unitaires
 
 ---
 
