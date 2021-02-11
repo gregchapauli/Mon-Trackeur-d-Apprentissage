@@ -45,7 +45,8 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
-| ![in progress][in progress] | Janvier 2020   | 20 Projets Javascript par Enzo Ustariz | [Udemy](https://www.udemy.com/course/formation-developpeur-web)  |
+| ![in progress][in progress] | Février 2021   | 20 Projets Javascript par Enzo Ustariz | [Udemy](https://www.udemy.com/course/formation-developpeur-web)  |
+| ![in progress][in progress] | Février 2021   | Javascript: La vraie compréhension | [DevTheory](https://devtheory.fr/formations/la-vraie-comprehension)  |
 | ![Completed][Completed] | Janvier 2021   | Wordpress  | [Udemy](https://www.udemy.com/course/formation-developpeur-web)  |
 | ![Completed][Completed] | Décembre 2020   | mySQL  | [Udemy](https://www.udemy.com/course/formation-developpeur-web)  |
 | ![Completed][Completed] | Décembre 2020   | Intermediate Algorithm Structure  | [FreeCodeCamp](https://www.freecodecamp.org/learn)   |
