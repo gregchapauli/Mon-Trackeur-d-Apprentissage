@@ -8,23 +8,22 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 | Compétence                                          | 1<br>Introduction |  2<br>Bases   |   3<br>bien   | 4<br>très bien | 5<br>confiant | 6<br>génial |
 | :-------------------------------------------------- | :---------------: | :-----------: | :-----------: | :------------: | :------------: | :---------: |
-| **![](logos/logo-html7.png) HTML5**                 |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                 |             |
-| **![](logos/logo-css3.png) CSS3**                   |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                 |             |
-| **![](logos/logo-javascript1.png) JavaScript**      |   ![done][done]   | ![done][done] |               |                |                |             |
-| **![](logos/logo-git.png) Git**                     |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |  |
-| **![](logos/logo-github.png) GitHub**               |   ![done][done]   | ![done][done] | ![done][done] |
+| **![](logos/logo-html7.png) HTML5**                 |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |
+| **![](logos/logo-css3.png) CSS3**                   |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |
+| **![](logos/logo-javascript1.png) JavaScript**      |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **![](logos/logo-git.png) Git**                     |   ![done][done]   | ![done][done] | ![done][done] |                |                |             | 
+| **![](logos/logo-github.png) GitHub**               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-agile.png) Agile**                 |   ![done][done]   | ![done][done] |               |                |                |             |
 | **![](logos/logo-jquery5.png) jQuery**              |   ![done][done]   | ![done][done] |               |                |                |             |
-| **Css Grid & Flex-box**                             |   ![done][done]   | ![done][done] | ![done][done] |                |
+| **Css Grid & Flex-box**                             |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **Responsive design**                               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-| **![](logos/logo-terminal3.png) Ligne de commande** |   ![done][done]   |               |               |                |                |             |
-
-<!--**![](logos/logo-api.png) Travailler avec des API**
-**![](logos/logo-es6.png) ES6**
-**![](logos/logo-react1.png) Reactjs**
+| **![](logos/logo-terminal3.png) Ligne de commande** |   ![done][done]   | ![done][done] |               |                |                |             |
+|**![](logos/logo-api.png) Travailler avec des API**  |   ![done][done]   |               |               |                |                |             |
+|**![](logos/logo-es6.png) ES6**                      |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+|**![](logos/logo-bootstrap.png) Bootstrap**          |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+<!--**![](logos/logo-react1.png) Reactjs**
 **![](logos/logo-react1.png) React Native**
-**![](logos/logo-redux1.png) Redux**
-**![](logos/logo-bootstrap.png) Bootstrap** 
+**![](logos/logo-redux1.png) Redux** 
 **![](logos/logo-npm.png) NPM**
 **![](logos/logoNodeJs.jpg) NodeJs**
 **![](logos/logo-ajax.png) AJAX**
@@ -45,8 +44,9 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
+| ![in progress][in progress] | Mars 2021   | React + Redux | [Sololearn](https://www.sololearn.com/learning/1097)  |
 | ![in progress][in progress] | Février 2021   | 20 Projets Javascript par Enzo Ustariz | [Udemy](https://www.udemy.com/course/formation-developpeur-web)  |
-| ![in progress][in progress] | Février 2021   | Javascript: La vraie compréhension | [DevTheory](https://devtheory.fr/formations/la-vraie-comprehension)  |
+| ![Completed][Completed] | Février 2021   | Javascript: La vraie compréhension | [DevTheory](https://devtheory.fr/formations/la-vraie-comprehension)  |
 | ![Completed][Completed] | Janvier 2021   | Wordpress  | [Udemy](https://www.udemy.com/course/formation-developpeur-web)  |
 | ![Completed][Completed] | Décembre 2020   | mySQL  | [Udemy](https://www.udemy.com/course/formation-developpeur-web)  |
 | ![Completed][Completed] | Décembre 2020   | Intermediate Algorithm Structure  | [FreeCodeCamp](https://www.freecodecamp.org/learn)   |
