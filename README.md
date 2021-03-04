@@ -21,17 +21,19 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 |**![](logos/logo-api.png) Travailler avec des API**  |   ![done][done]   |               |               |                |                |             |
 |**![](logos/logo-es6.png) ES6**                      |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 |**![](logos/logo-bootstrap.png) Bootstrap**          |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-<!--**![](logos/logo-react1.png) Reactjs**
+|**![](logos/logo-react1.png) Reactjs**               |   ![done][done]   | ![done][done] |               |                |                |             |
+|**![](logos/logo-redux1.png) Redux**                 |   ![done][done]   | ![done][done] |               |                |                |             |
+|**![](logos/logo-npm.png) NPM**                      |   ![done][done]   | ![done][done] |               |                |                |             |
+|**![](logos/logoNodeJs.jpg) NodeJs**                 |   ![done][done]   | ![done][done] |               |                |                |             |
+|**![](logos/logo-php.png) PHP**                      |   ![done][done]   | ![done][done] |               |                |                |             |
+|**![](logos/sql-logo.png) SQL**                      |   ![done][done]   | ![done][done] |               |                |                |             |
+<!--
 **![](logos/logo-react1.png) React Native**
-**![](logos/logo-redux1.png) Redux** 
-**![](logos/logo-npm.png) NPM**
-**![](logos/logoNodeJs.jpg) NodeJs**
 **![](logos/logo-ajax.png) AJAX**
 **![](logos/logoExpress.jpg) Express**
 **![](logos/logoMongoDB.jpg) MongoDB**
 **![](logos/logoMongoose.jpg) Mongoose**
 **![](logos/logo_python.png) Python** 
-**![](logos/sql-logo.png) SQL**
 -->
 ---
 
@@ -44,7 +46,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
-| ![in progress][in progress] | Mars 2021   | React + Redux | [Sololearn](https://www.sololearn.com/learning/1097)  |
+| ![Completed][Completed] | Mars 2021   | React + Redux | [Sololearn](https://www.sololearn.com/learning/1097)  |
 | ![in progress][in progress] | Février 2021   | 20 Projets Javascript par Enzo Ustariz | [Udemy](https://www.udemy.com/course/formation-developpeur-web)  |
 | ![Completed][Completed] | Février 2021   | Javascript: La vraie compréhension | [DevTheory](https://devtheory.fr/formations/la-vraie-comprehension)  |
 | ![Completed][Completed] | Janvier 2021   | Wordpress  | [Udemy](https://www.udemy.com/course/formation-developpeur-web)  |
@@ -76,13 +78,14 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 Je suis actuellement intéressé par :
 
-- L'apprentissage du Javascript (formation UDEMY en cours)
 - La construction d'un PORTFOLIO
 - La création d'un blog
-- Les Frameworks (React), les API, VSCode, Bootstrap, PHP, MySQL...
-- Le developpement mobile (Flutter)
+- Me perfectionner en React JS
+- Le developpement mobile (Flutter/React Native)
 - Le Serverless
 - Les tests unitaires
+- TDD
+- Automatisation
 
 ---
 
@@ -116,7 +119,7 @@ Voici une liste d'objectifs de base à atteindre :
 - [ ] Assistez à un événement sur le développement Web
 - [ ] Lire un livre sur le codage
 - [x] Ouvrir la console de votre navigateur
-- [ ] Obtenir des données d'une API
+- [x] Obtenir des données d'une API
 - [ ] Masquer les clés API du public
 - [x] Posez une question sur Stack Overflow
 - [x] Code Push vers GitHub
@@ -128,4 +131,4 @@ Voici une liste d'objectifs de base à atteindre :
 - [x] Lorsque les gens vous demandent ce que vous faites, répondez en disant que vous apprenez le code :)
 - [ ] Travailler sur un projet en équipe
 - [ ] Apprendre le framework React
-- [ ] Apprendre SQL
+- [x] Apprendre SQL
