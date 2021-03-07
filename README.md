@@ -46,6 +46,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
+| ![Completed][Completed] | Mars 2021   | Préparez-vous aux tests techniques pour devenir développeur | [Openclassrooms](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur)  |
 | ![Completed][Completed] | Mars 2021   | React + Redux | [Sololearn](https://www.sololearn.com/learning/1097)  |
 | ![in progress][in progress] | Février 2021   | 20 Projets Javascript par Enzo Ustariz | [Udemy](https://www.udemy.com/course/formation-developpeur-web)  |
 | ![Completed][Completed] | Février 2021   | Javascript: La vraie compréhension | [DevTheory](https://devtheory.fr/formations/la-vraie-comprehension)  |
