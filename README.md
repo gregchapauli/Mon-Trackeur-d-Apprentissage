@@ -18,7 +18,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 | **Css Grid & Flex-box**                             |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **Responsive design**                               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-terminal3.png) Ligne de commande** |   ![done][done]   | ![done][done] |               |                |                |             |
-|**![](logos/logo-api.png) Travailler avec des API**  |   ![done][done]   |               |               |                |                |             |
+|**![](logos/logo-api.png) Travailler avec des API**  |   ![done][done]   | ![done][done] |               |                |                |             |
 |**![](logos/logo-es6.png) ES6**                      |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 |**![](logos/logo-bootstrap.png) Bootstrap**          |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 |**![](logos/logo-react1.png) Reactjs**               |   ![done][done]   | ![done][done] |               |                |                |             |
@@ -48,7 +48,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
 | ![Completed][Completed] | Mars 2021   | Préparez-vous aux tests techniques pour devenir développeur | [Openclassrooms](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur)  |
 | ![Completed][Completed] | Mars 2021   | React + Redux | [Sololearn](https://www.sololearn.com/learning/1097)  |
-| ![in progress][in progress] | Février 2021   | 20 Projets Javascript par Enzo Ustariz | [Udemy](https://www.udemy.com/course/formation-developpeur-web)  |
+| ![Completed][Completed] | Février 2021   | 20 Projets Javascript par Enzo Ustariz | [Udemy](https://www.udemy.com/course/formation-developpeur-web)  |
 | ![Completed][Completed] | Février 2021   | Javascript: La vraie compréhension | [DevTheory](https://devtheory.fr/formations/la-vraie-comprehension)  |
 | ![Completed][Completed] | Janvier 2021   | Wordpress  | [Udemy](https://www.udemy.com/course/formation-developpeur-web)  |
 | ![Completed][Completed] | Décembre 2020   | mySQL  | [Udemy](https://www.udemy.com/course/formation-developpeur-web)  |
