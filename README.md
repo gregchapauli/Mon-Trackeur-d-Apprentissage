@@ -13,7 +13,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 | **![](logos/logo-javascript1.png) JavaScript**      |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-git.png) Git**                     |   ![done][done]   | ![done][done] | ![done][done] |                |                |             | 
 | **![](logos/logo-github.png) GitHub**               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-| **![](logos/logo-agile.png) Agile**                 |   ![done][done]   | ![done][done] |               |                |                |             |
+| **![](logos/logo-agile.png) Agile**                 |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-jquery5.png) jQuery**              |   ![done][done]   | ![done][done] |               |                |                |             |
 | **Css Grid & Flex-box**                             |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **Responsive design**                               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
@@ -46,6 +46,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
+| ![Completed][Completed] | Avril 2021   | Maitriser les méthodes Agiles | [LinkedIn](https://www.linkedin.com/learning/decouvrir-les-methodes-agiles-pour-le-developpement-logiciel)  |
 | ![Completed][Completed] | Mars 2021   | Préparez-vous aux tests techniques pour devenir développeur | [Openclassrooms](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur)  |
 | ![Completed][Completed] | Mars 2021   | React + Redux | [Sololearn](https://www.sololearn.com/learning/1097)  |
 | ![Completed][Completed] | Février 2021   | 20 Projets Javascript par Enzo Ustariz | [Udemy](https://www.udemy.com/course/formation-developpeur-web)  |
@@ -79,6 +80,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 Je suis actuellement intéressé par :
 
+- La blockchain Ethereum et les smart contracts (Solidity)
 - La construction d'un PORTFOLIO
 - La création d'un blog
 - Me perfectionner en React JS
