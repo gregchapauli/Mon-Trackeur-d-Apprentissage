@@ -87,6 +87,7 @@ Je suis actuellement intéressé par :
 - La création d'un blog
 - Me perfectionner en React JS
 - Le developpement mobile (Flutter/React Native)
+- Apprentissage de Typescript
 - Le Serverless
 - Les tests unitaires
 - TDD
