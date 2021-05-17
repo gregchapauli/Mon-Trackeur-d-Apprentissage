@@ -46,6 +46,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
+| ![Completed][Completed] | Mai 2021   | Cursus "Devenir développeur Javascript" | [LinkedIn](https://www.linkedin.com/learning/paths/devenir-developpeur-developpeuse-javascript |
 | ![Completed][Completed] | Avril 2021   | Maitriser les méthodes Agiles | [LinkedIn](https://www.linkedin.com/learning/decouvrir-les-methodes-agiles-pour-le-developpement-logiciel)  |
 | ![Completed][Completed] | Mars 2021   | Préparez-vous aux tests techniques pour devenir développeur | [Openclassrooms](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur)  |
 | ![Completed][Completed] | Mars 2021   | React + Redux | [Sololearn](https://www.sololearn.com/learning/1097)  |
