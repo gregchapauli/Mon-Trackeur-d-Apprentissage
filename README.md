@@ -11,6 +11,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 | **![](logos/logo-html7.png) HTML5**                 |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |
 | **![](logos/logo-css3.png) CSS3**                   |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |
 | **![](logos/logo-javascript1.png) JavaScript**      |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+| **Typescript**                                      |   ![done][done]   | ![done][done] |               |                |                |             |
 | **![](logos/logo-git.png) Git**                     |   ![done][done]   | ![done][done] | ![done][done] |                |                |             | 
 | **![](logos/logo-github.png) GitHub**               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-agile.png) Agile**                 |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
