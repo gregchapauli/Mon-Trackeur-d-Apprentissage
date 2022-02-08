@@ -19,12 +19,12 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 | **Css Grid & Flex-box**                             |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **Responsive design**                               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 | **![](logos/logo-terminal3.png) Ligne de commande** |   ![done][done]   | ![done][done] |               |                |                |             |
-|**![](logos/logo-api.png) Travailler avec des API**  |   ![done][done]   | ![done][done] |               |                |                |             |
+|**![](logos/logo-api.png) Travailler avec des API**  |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 |**![](logos/logo-es6.png) ES6**                      |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 |**![](logos/logo-bootstrap.png) Bootstrap**          |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-|**![](logos/logo-react1.png) Reactjs**               |   ![done][done]   | ![done][done] |               |                |                |             |
-|**![](logos/logo-redux1.png) Redux**                 |   ![done][done]   | ![done][done] |               |                |                |             |
-|**![](logos/logo-npm.png) NPM**                      |   ![done][done]   | ![done][done] |               |                |                |             |
+|**![](logos/logo-react1.png) Reactjs**               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+|**![](logos/logo-redux1.png) Redux**                 |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
+|**![](logos/logo-npm.png) NPM**                      |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
 |**![](logos/logoNodeJs.jpg) NodeJs**                 |   ![done][done]   | ![done][done] |               |                |                |             |
 |**![](logos/logo-php.png) PHP**                      |   ![done][done]   | ![done][done] |               |                |                |             |
 |**![](logos/sql-logo.png) SQL**                      |   ![done][done]   | ![done][done] |               |                |                |             |
@@ -47,6 +47,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
+| ![in progress][in progress] | Janvier 2022   | React JS pour Tous | [Udemy](https://www.udemy.com/course/formation-react-js-pour-tous) |
 | ![Completed][Completed] | Mai 2021   | Devenir développeur Javascript | [LinkedIn](https://www.linkedin.com/learning/paths/devenir-developpeur-developpeuse-javascript) |
 | ![Completed][Completed] | Avril 2021   | Maitriser les méthodes Agiles | [LinkedIn](https://www.linkedin.com/learning/decouvrir-les-methodes-agiles-pour-le-developpement-logiciel)  |
 | ![Completed][Completed] | Mars 2021   | Préparez-vous aux tests techniques pour devenir développeur | [Openclassrooms](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur)  |
@@ -85,7 +86,7 @@ Je suis actuellement intéressé par :
 - La blockchain Ethereum et les smart contracts (Solidity)
 - La construction d'un PORTFOLIO
 - La création d'un blog
-- Me perfectionner en React JS
+- Me perfectionner en ReactJS et REDUX
 - Le developpement mobile (Flutter/React Native)
 - Apprentissage de Typescript
 - Le Serverless
@@ -136,5 +137,5 @@ Voici une liste d'objectifs de base à atteindre :
 - [ ] Soyez payé pour coder
 - [x] Lorsque les gens vous demandent ce que vous faites, répondez en disant que vous apprenez le code :)
 - [ ] Travailler sur un projet en équipe
-- [ ] Apprendre le framework React
+- [x] Apprendre le framework React
 - [x] Apprendre SQL
