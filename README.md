@@ -2,42 +2,6 @@
 
 Un journal de mes compétences en développement Web <!--et mobile-->, mon apprentissage, mes ressources, mes centres d'intérêt. C'est un moyen de suivre, d'organiser et de partager mes apprentissages.
 
-## Compétences
-
-[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
-
-| Compétence                                          | 1<br>Introduction |  2<br>Bases   |   3<br>bien   | 4<br>très bien | 5<br>confiant | 6<br>génial |
-| :-------------------------------------------------- | :---------------: | :-----------: | :-----------: | :------------: | :------------: | :---------: |
-| **![](logos/logo-html7.png) HTML5**                 |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |
-| **![](logos/logo-css3.png) CSS3**                   |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]  |                |             |
-| **![](logos/logo-javascript1.png) JavaScript**      |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-| **Typescript**                                      |   ![done][done]   | ![done][done] |               |                |                |             |
-| **![](logos/logo-git.png) Git**                     |   ![done][done]   | ![done][done] | ![done][done] |                |                |             | 
-| **![](logos/logo-github.png) GitHub**               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-| **![](logos/logo-agile.png) Agile**                 |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-| **![](logos/logo-jquery5.png) jQuery**              |   ![done][done]   | ![done][done] |               |                |                |             |
-| **Css Grid & Flex-box**                             |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-| **Responsive design**                               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-| **![](logos/logo-terminal3.png) Ligne de commande** |   ![done][done]   | ![done][done] |               |                |                |             |
-|**![](logos/logo-api.png) Travailler avec des API**  |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-|**![](logos/logo-es6.png) ES6**                      |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-|**![](logos/logo-bootstrap.png) Bootstrap**          |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-|**![](logos/logo-react1.png) Reactjs**               |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-|**![](logos/logo-redux1.png) Redux**                 |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-|**![](logos/logo-npm.png) NPM**                      |   ![done][done]   | ![done][done] | ![done][done] |                |                |             |
-|**![](logos/logoNodeJs.jpg) NodeJs**                 |   ![done][done]   | ![done][done] |               |                |                |             |
-|**![](logos/logo-php.png) PHP**                      |   ![done][done]   | ![done][done] |               |                |                |             |
-|**![](logos/sql-logo.png) SQL**                      |   ![done][done]   | ![done][done] |               |                |                |             |
-<!--
-**![](logos/logo-react1.png) React Native**
-**![](logos/logo-ajax.png) AJAX**
-**![](logos/logoExpress.jpg) Express**
-**![](logos/logoMongoDB.jpg) MongoDB**
-**![](logos/logoMongoose.jpg) Mongoose**
-**![](logos/logo_python.png) Python** 
--->
----
-
 ## Apprentissage
 
 [//]: # "Status images"
