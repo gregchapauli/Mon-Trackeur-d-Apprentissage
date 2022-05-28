@@ -11,6 +11,8 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
+| ![in progress][in progress] | Mai 2022   | Apprendre les tests | [Mike Codeur](https://formations.mikecodeur.com/view/courses/automated-tests-pro) |
+| ![in progress][in progress] | Mai 2022   | Création de mon Portfolio en ReactJS | [My Portfolio](https://my-portfolio-gilt-nine.vercel.app/) |
 | ![Completed][Completed] | Avril 2022   | React JS pour Tous | [Udemy](https://www.udemy.com/course/formation-react-js-pour-tous) |
 | ![Completed][Completed] | Mai 2021   | Devenir développeur Javascript | [LinkedIn](https://www.linkedin.com/learning/paths/devenir-developpeur-developpeuse-javascript) |
 | ![Completed][Completed] | Avril 2021   | Maitriser les méthodes Agiles | [LinkedIn](https://www.linkedin.com/learning/decouvrir-les-methodes-agiles-pour-le-developpement-logiciel)  |
