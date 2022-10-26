@@ -11,6 +11,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
+| ![in progress][in progress] | October 2022   | Bootcamp React Mastery| [Mike Codeur](https://formations.mikecodeur.com/view/courses/automated-tests-pro) |
 | ![Completed][Completed] | Aout 2022   | Apprendre les tests (Jest/Tests unitaires/TDD/BDD/Intégration continue)| [Mike Codeur](https://formations.mikecodeur.com/view/courses/automated-tests-pro) |
 | ![Completed][Completed] | Juin 2022   | Création de mon Portfolio en ReactJS | [My Portfolio](https://my-portfolio-gilt-nine.vercel.app/) |
 | ![Completed][Completed] | Avril 2022   | React JS pour Tous | [Udemy](https://www.udemy.com/course/formation-react-js-pour-tous) |
@@ -87,7 +88,7 @@ Voici une liste d'objectifs de base à atteindre :
 - [x] Ouvrir le terminal de l'ordinateur
 - [x] Utilisez un éditeur de texte (Vscode)
 - [x] Utilisez des raccourcis clavier
-- [ ] Écrire des tests pour votre code
+- [x] Écrire des tests pour votre code
 - [ ] Aidez un autre développeur Web à résoudre un problème
 - [ ] Assistez à un événement sur le développement Web
 - [ ] Lire un livre sur le codage
@@ -98,7 +99,7 @@ Voici une liste d'objectifs de base à atteindre :
 - [x] Code Push vers GitHub
 - [ ] Remplir un entretien technique
 - [ ] Participer à un hackathon
-- [ ] Déployer un projet
+- [x] Déployer un projet
 - [ ] Contribuer à l'open source
 - [ ] Soyez payé pour coder
 - [x] Lorsque les gens vous demandent ce que vous faites, répondez en disant que vous apprenez le code :)
