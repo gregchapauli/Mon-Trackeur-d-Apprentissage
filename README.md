@@ -11,7 +11,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
-| ![Completed][Completed] | Novembre 2022   | Apprendre à programmer en Java (https://openclassrooms.com/fr/courses/6173501-apprenez-a-programmer-en-java)| [Openclassrooms](https://formations.mikecodeur.com/view/courses/automated-tests-pro) |
+| ![Completed][Completed] | Novembre 2022   | Apprendre à programmer en Java | [Openclassrooms](https://openclassrooms.com/fr/courses/6173501-apprenez-a-programmer-en-java) |
 | ![in progress][in progress] | October 2022   | Bootcamp React Mastery| [Mike Codeur](https://formations.mikecodeur.com/view/courses/automated-tests-pro) |
 | ![Completed][Completed] | Aout 2022   | Apprendre les tests (Jest/Tests unitaires/TDD/BDD/Intégration continue)| [Mike Codeur](https://formations.mikecodeur.com/view/courses/automated-tests-pro) |
 | ![Completed][Completed] | Juin 2022   | Création de mon Portfolio en ReactJS | [My Portfolio](https://my-portfolio-gilt-nine.vercel.app/) |
