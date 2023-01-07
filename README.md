@@ -11,6 +11,7 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
+| ![Completed][Completed] | Janvier 2023   | Java et les bases de données avec JDBC, Hibernate et JPA | [Apprendre-java.com](https://apprendre-java.com/) |
 | ![Completed][Completed] | Janvier 2023   | Devenir développeur web avec Java EE | [Apprendre-java.com](https://apprendre-java.com/) |
 | ![Completed][Completed] | Décembre 2022   | Développer des sites web avec Java EE | [Openclassrooms](https://openclassrooms.com/fr/courses/2434016-developpez-des-sites-web-avec-java-ee) |
 | ![Completed][Completed] | Novembre 2022   | Apprendre à programmer en Java | [Openclassrooms](https://openclassrooms.com/fr/courses/6173501-apprenez-a-programmer-en-java) |
