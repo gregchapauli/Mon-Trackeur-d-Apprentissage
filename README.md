@@ -11,11 +11,11 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 
 |         Status          | Année          | Cours         |                                         Lien                                         |
 | :---------------------: | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------: |
+| ![in progress][in progress] | October 2022 - Février 2023   | Bootcamp React Mastery| [Mike Codeur](https://formations.mikecodeur.com/view/courses/automated-tests-pro) |
 | ![Completed][Completed] | Janvier 2023   | Java et les bases de données avec JDBC, Hibernate et JPA | [Apprendre-java.com](https://apprendre-java.com/) |
 | ![Completed][Completed] | Janvier 2023   | Devenir développeur web avec Java EE | [Apprendre-java.com](https://apprendre-java.com/) |
 | ![Completed][Completed] | Décembre 2022   | Développer des sites web avec Java EE | [Openclassrooms](https://openclassrooms.com/fr/courses/2434016-developpez-des-sites-web-avec-java-ee) |
 | ![Completed][Completed] | Novembre 2022   | Apprendre à programmer en Java | [Openclassrooms](https://openclassrooms.com/fr/courses/6173501-apprenez-a-programmer-en-java) |
-| ![in progress][in progress] | October 2022   | Bootcamp React Mastery| [Mike Codeur](https://formations.mikecodeur.com/view/courses/automated-tests-pro) |
 | ![Completed][Completed] | Aout 2022   | Apprendre les tests (Jest/Tests unitaires/TDD/BDD/Intégration continue)| [Mike Codeur](https://formations.mikecodeur.com/view/courses/automated-tests-pro) |
 | ![Completed][Completed] | Juin 2022   | Création de mon Portfolio en ReactJS | [My Portfolio](https://my-portfolio-gilt-nine.vercel.app/) |
 | ![Completed][Completed] | Avril 2022   | React JS pour Tous | [Udemy](https://www.udemy.com/course/formation-react-js-pour-tous) |
@@ -55,14 +55,11 @@ Un journal de mes compétences en développement Web <!--et mobile-->, mon appre
 Je suis actuellement intéressé par :
 
 - La blockchain Ethereum et les smart contracts (Solidity)
-- La construction d'un PORTFOLIO
-- La création d'un blog
-- Me perfectionner en ReactJS et REDUX
 - Le developpement mobile (Flutter/React Native)
 - Apprentissage de Typescript
 - Le Serverless
-- Les tests unitaires
-- TDD
+- La création d'un blog
+- Svelte
 - Automatisation
 
 ---
@@ -94,14 +91,14 @@ Voici une liste d'objectifs de base à atteindre :
 - [x] Utilisez des raccourcis clavier
 - [x] Écrire des tests pour votre code
 - [ ] Aidez un autre développeur Web à résoudre un problème
-- [ ] Assistez à un événement sur le développement Web
+- [x] Assistez à un événement sur le développement Web
 - [ ] Lire un livre sur le codage
 - [x] Ouvrir la console de votre navigateur
 - [x] Obtenir des données d'une API
-- [ ] Masquer les clés API du public
+- [x] Masquer les clés API du public
 - [x] Posez une question sur Stack Overflow
 - [x] Code Push vers GitHub
-- [ ] Remplir un entretien technique
+- [x] Remplir un entretien technique
 - [ ] Participer à un hackathon
 - [x] Déployer un projet
 - [ ] Contribuer à l'open source
